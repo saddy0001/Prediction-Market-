@@ -97,3 +97,5 @@ We envision this platform becoming a go-to destination for both casual users int
 ---
 
 *Join us in building the future of decentralized prediction markets, where collective intelligence meets blockchain technology to create transparent, fair, and accessible forecasting platforms for everyone.*
+## Contract Details : 0x0A8E694e2bbD64D5798122eb323fEBD287Ca18c9
+<img width="1907" height="927" alt="Screenshot 2025-07-28 143258" src="https://github.com/user-attachments/assets/b655ba4b-45a2-4377-9b6f-b11e8bbc607f" />
